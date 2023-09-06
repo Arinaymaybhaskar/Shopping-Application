@@ -1,7 +1,5 @@
 
-# Ajargh Kreation Assignment
-
-Frontend Assignment for Ajargh Kreation intern role. UI challenge consisting of 3 small mini challenges.
+# Product Shopping application
 
 
 ## Installation
